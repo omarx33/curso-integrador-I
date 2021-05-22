@@ -10,4 +10,6 @@ if(!isset($_SESSION[KEY.ID])){
 
 }
  */
+
+header("Location: pages/chart.php");
  ?>
